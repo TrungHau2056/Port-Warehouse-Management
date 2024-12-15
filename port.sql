@@ -1,0 +1,15 @@
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (1, 1, 'Los Angeles', '31 million', 'Port of Los Angeles, CA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (2, 2, 'Long Beach', '25 million', 'Port of Long Beach, CA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (3, 3, 'New York and New Jersey', '16 million', 'Port of New York and New Jersey, NY/NJ');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (4, 4, 'Savannah', '9 million', 'Port of Savannah, GA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (5, 5, 'Houston', '7 million', 'Port of Houston, TX');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (6, 6, 'Charleston', '5 million', 'Port of Charleston, SC');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (7, 7, 'Oakland', '4 million', 'Port of Oakland, CA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (8, 8, 'Seattle', '3 million', 'Port of Seattle, WA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (9, 9, 'Miami', '2 million', 'Port of Miami, FL');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (10, 10, 'Tacoma', '1.5 million', 'Port of Tacoma, WA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (11, 11, 'Boston', '1 million', 'Port of Boston, MA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (12, 12, 'New Orleans', '2 million', 'Port of New Orleans, LA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (13, 13, 'Jacksonville', '2 million', 'Port of Jacksonville, FL');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (14, 14, 'Philadelphia', '1 million', 'Port of Philadelphia, PA');
+insert into portmanagement.port (PortID, PortManagerID, Name, Capacity, Location) values (15, 15, 'Baltimore', '2.5 million', 'Port of Baltimore, MD');
